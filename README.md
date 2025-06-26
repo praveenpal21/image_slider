@@ -21,7 +21,7 @@ CSS3
 Vanilla JavaScript
 
 ### 📁 Folder Structure
-bash
+```bash
 Copy
 Edit
 project-folder/
@@ -33,6 +33,7 @@ project-folder/
     ├── img1.jpg        # First slide image
     ├── img2.jpg        # Second slide image
     └── img3.jpg        # Third slide image
+```
 ### 🔧 How to Use
 Clone or download this repository.
 
