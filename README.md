@@ -22,8 +22,7 @@ Vanilla JavaScript
 
 ### 📁 Folder Structure
 ```bash
-Copy
-Edit
+
 project-folder/
 │
 ├── index.html          # Main HTML file
